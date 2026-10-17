@@ -5,13 +5,18 @@
 
   <br><br>
 
-  # ✨ WELCOME TO MY PLAYGROUND! ✨
-
-  I'm a UI/UX & XR designer based in Gurugram crafting immersive, interactive digital experiences. From high-fidelity prototypes to spatial designs, I build interfaces pixel by pixel that are as beautiful as they are functional.
+  <!-- ✨ WELCOME TO MY PLAYGROUND! ✨ -->
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=24&color=FFFFFF&center=false&vCenter=false&width=600&duration=1&repeat=false&lines=%E2%9C%A8+WELCOME+TO+MY+PLAYGROUND!+%E2%9C%A8" alt="Welcome Header" />
 
   <br>
 
-  ## 🛠️ MY SKILL SET
+  I'm a UI/UX & XR designer based in Gurugram crafting immersive, interactive digital experiences. From high-fidelity prototypes to spatial designs, I build interfaces pixel by pixel that are as beautiful as they are functional.
+
+  <br><br>
+
+  <!-- 🛠️ MY SKILL SET -->
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&color=FFFFFF&width=400&duration=1&repeat=false&lines=%F0%9F%9B%A0%EF%B8%8F+MY+SKILL+SET" alt="Skills Header" />
+  <br>
   * **UX/UI & Prototyping:** [Write about your Figma component workflows, auto-layout, and design system building here]
   * **Spatial Design (XR):** [Write about your Blender3D modeling and Unity 6 augmented reality prototyping here]
   * **Front-End Development:** [Write about implementing designs using React, Next.js, HTML5, and Tailwind CSS here]
@@ -19,7 +24,9 @@
 
   <br>
 
-  ## 📄 GET IN TOUCH
+  <!-- 📄 GET IN TOUCH -->
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&color=FFFFFF&width=400&duration=1&repeat=false&lines=%F0%9F%93%84+GET+IN+TOUCH" alt="Contact Header" />
+  <br>
   <a href="YOUR_RESUME_DRIVE_LINK">
     <img src="https://img.shields.io/badge/%F0%9F%93%82_READ_MY_RESUME-4A90E2?style=for-the-badge" alt="Read My Resume" />
   </a>
@@ -34,8 +41,9 @@
   </a>
 
   <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&color=FFFFFF&width=400&lines=%F0%9F%9A%80+TOP+PROJECTS" alt="Projects Header" />
+  
+  <!-- 🚀 TOP PROJECTS -->
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&color=FFFFFF&width=400&duration=1&repeat=false&lines=%F0%9F%9A%80+TOP+PROJECTS" alt="Projects Header" />
   <br>
 
   <table>
@@ -44,21 +52,21 @@
         <a href="https://github.com/YOUR_USERNAME/seva-setu">
           <img src="YOUR_PROJECT_IMAGE_URL_1.png" width="220" alt="Seva-Setu Cover" />
           <br>
-          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&lines=Seva-Setu" alt="Seva-Setu" />
+          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&duration=1&repeat=false&lines=Seva-Setu" alt="Seva-Setu" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/YOUR_USERNAME/zuno">
           <img src="YOUR_PROJECT_IMAGE_URL_2.png" width="220" alt="Zuno Cover" />
           <br>
-          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&lines=Zuno+Accessibility" alt="Zuno App" />
+          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&duration=1&repeat=false&lines=Zuno+Accessibility" alt="Zuno App" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/YOUR_USERNAME/saralkaro">
           <img src="YOUR_PROJECT_IMAGE_URL_3.png" width="220" alt="SaralKaro Cover" />
           <br>
-          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&lines=SaralKaro" alt="SaralKaro" />
+          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&duration=1&repeat=false&lines=SaralKaro" alt="SaralKaro" />
         </a>
       </td>
     </tr>

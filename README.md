@@ -35,55 +35,33 @@
 
   <br><br>
 
-  ## 🚀 TOP PROJECTS
-
-  <!-- Project 1: Seva-Setu -->
-  <details>
-    <summary>
-      <!-- Bold Silkscreen Title -->
-      <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=22&color=FFFFFF&vCenter=true&duration=1&lines=Seva-Setu" alt="Seva-Setu Title" />
-      <br>
-      <!-- Regular Silkscreen Body -->
-      <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=C9D1D9&vCenter=true&duration=1&width=600&lines=Civic+services+app+featuring+a+custom+component+design+system." alt="Seva-Setu Description" />
-    </summary>
-    <br>
-    <blockquote>
-      🛠️ <strong>Tech Stack:</strong> Figma, User Research, Wireframing, High-Fidelity Prototyping
-    </blockquote>
-  </details>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&color=FFFFFF&width=400&lines=%F0%9F%9A%80+TOP+PROJECTS" alt="Projects Header" />
   <br>
 
-  <!-- Project 2: Zuno -->
-  <details>
-    <summary>
-      <!-- Bold Silkscreen Title -->
-      <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=22&color=FFFFFF&vCenter=true&duration=1&lines=Zuno" alt="Zuno Title" />
-      <br>
-      <!-- Regular Silkscreen Body -->
-      <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=C9D1D9&vCenter=true&duration=1&width=600&lines=Accessibility-focused+mobile+app+interface+based+on+medical+research." alt="Zuno Description" />
-    </summary>
-    <br>
-    <blockquote>
-      🛠️ <strong>Tech Stack:</strong> Secondary Medical Research, Expert Interviews, Figma
-    </blockquote>
-  </details>
-
-  <br>
-
-  <!-- Project 3: SaralKaro -->
-  <details>
-    <summary>
-      <!-- Bold Silkscreen Title -->
-      <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=22&color=FFFFFF&vCenter=true&duration=1&lines=SaralKaro" alt="SaralKaro Title" />
-      <br>
-      <!-- Regular Silkscreen Body -->
-      <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=C9D1D9&vCenter=true&duration=1&width=600&lines=Complete+brand+identity,+logo+design,+and+visual+UI+system." alt="SaralKaro Description" />
-    </summary>
-    <br>
-    <blockquote>
-      🛠️ <strong>Tech Stack:</strong> Brand Identity, Visual Design, Figma
-    </blockquote>
-  </details>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/YOUR_USERNAME/seva-setu">
+          <img src="YOUR_PROJECT_IMAGE_URL_1.png" width="220" alt="Seva-Setu Cover" />
+          <br>
+          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&lines=Seva-Setu" alt="Seva-Setu" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/YOUR_USERNAME/zuno">
+          <img src="YOUR_PROJECT_IMAGE_URL_2.png" width="220" alt="Zuno Cover" />
+          <br>
+          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&lines=Zuno+Accessibility" alt="Zuno App" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/YOUR_USERNAME/saralkaro">
+          <img src="YOUR_PROJECT_IMAGE_URL_3.png" width="220" alt="SaralKaro Cover" />
+          <br>
+          <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&color=FFFFFF&width=200&lines=SaralKaro" alt="SaralKaro" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>

@@ -1,7 +1,7 @@
 <div align="left">
 
   <!-- Pixel Art Banner -->
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Frame-36-2.jpg" alt="Ever seen a cat who designs experiences?" width="100%" />
+  <img src="https://raw.githubusercontent.com/chirahbhal312/chirahbhal312/main/Frame-36-2.jpg" alt="Ever seen a cat who designs experiences?" width="100%" />
 
   <br><br>
 
@@ -9,34 +9,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=24&color=FFFFFF&center=false&vCenter=false&width=600&duration=1&repeat=false&lines=%E2%9C%A8+WELCOME+TO+MY+PLAYGROUND!+%E2%9C%A8" alt="Welcome Header" />
 
   <br>
-
-  I'm a UI/UX & XR designer based in Gurugram crafting immersive, interactive digital experiences. From high-fidelity prototypes to spatial designs, I build interfaces pixel by pixel that are as beautiful as they are functional.
+Immersive developer and B.Tech CSE(UX/UI) student specializing in NextJs, WebXR, ThreeJS, BabylonJS, ARCore, Unity 6, Lens Studio, Blender and other interactive 3D experiences. Passionate about building production-grade AR applications and websites. I have a total of 12 months of Internship Experience as Website Developer including an WebXR Internship at IIT Delhi
 
   <br><br>
 
   <!-- 🛠️ MY SKILL SET -->
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&color=FFFFFF&width=400&duration=1&repeat=false&lines=%F0%9F%9B%A0%EF%B8%8F+MY+SKILL+SET" alt="Skills Header" />
   <br>
-  * **UX/UI & Prototyping:** [Write about your Figma component workflows, auto-layout, and design system building here]
-  * **Spatial Design (XR):** [Write about your Blender3D modeling and Unity 6 augmented reality prototyping here]
-  * **Front-End Development:** [Write about implementing designs using React, Next.js, HTML5, and Tailwind CSS here]
-  * **UX Research:** [Write about your field research, user interviews, usability testing, and affinity mapping techniques here]
+  * Web Dev: NextJs, ReactJs, NodeJs, REST APIs, MongoDB, MySQL, Framer Motion, LLM API Integration, AI-assisted feature development, Vercel, Supabase, Clerk, TypeScript <br>
+  * Unity 6: AR Foundation, ARKit, ARCore, XR Interaction Toolkit, C# Scripting, Image Tracking, Plane Tracking, Face and Body Tracking, XR UI, uGUI, Unity ScriptableObjects, Prefab, Raycasting, Animator, Vuforia Engine, Spatial Designing (Environment + UI + Models)
+  * Web AR/VR: WebXR, ThreeJs, React Three Fiber, BabylonJs, Model Viewer, HTML Canvas, A-Frame, MediaPipe, AR.js, WGSL, GLSL, Hit-test, Plane tracking, Image anchors, 
+  * 3D Modelling: Blender, Spline, Keyframe based animations in Blender
 
-  <br>
+  <br><br>
 
   <!-- 📄 GET IN TOUCH -->
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&color=FFFFFF&width=400&duration=1&repeat=false&lines=%F0%9F%93%84+GET+IN+TOUCH" alt="Contact Header" />
   <br>
-  <a href="YOUR_RESUME_DRIVE_LINK">
+  <a href="https://drive.google.com/file/d/16Hz-GbsQJn4nRGij7G-NylCURO-CMfTC/view?usp=sharing">
     <img src="https://img.shields.io/badge/%F0%9F%93%82_READ_MY_RESUME-4A90E2?style=for-the-badge" alt="Read My Resume" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/chirag-bhal-0a5854280/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/YOUR_TWITTER">
+  <a href="https://x.com/BhalChirag">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://behance.net/YOUR_BEHANCE">
+  <a href="https://www.behance.net/chiragbhaldesigns">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
 

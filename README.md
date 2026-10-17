@@ -1,8 +1,7 @@
 <div align="left">
 
   <!-- Pixel Art Banner -->
-  <img src="https://raw.githubusercontent.com/chirahbhal312/chirahbhal312/main/topimg.png" alt="Ever seen a cat who designs experiences?" width="100%" />
-
+<img src="./topimg.png" alt="Ever seen a cat who designs experiences?" width="100%" />
   <br><br>
 
   <!-- ✨ WELCOME TO MY PLAYGROUND! ✨ -->
